@@ -211,4 +211,5 @@ li a:after {
 }
 .count{
    display: block;
+  margin:0 auto;
 }
